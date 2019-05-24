@@ -7,4 +7,4 @@ layout: page
 
 Hello
 
-Good
+Good.
