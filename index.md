@@ -16,10 +16,8 @@ Efficient Algorithms.
 
 ### Publications
 
-* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social    Networks2”, Proceedings of the 35th International Conference on Data Engineering (ICDE 2019).
-* L. Gallagher, J. Mackenzie, J. S. Culpepper. [Revisiting Spam Filtering
-  in Web Search]. *Proceedings of the 23rd Australasian Document Computing
-  Symposium* (ADCS 2018).
-* R. Benham, L. Gallagher, J. Mackenzie, B. Liu, X. Lu, F. Scholer, A. Moffat,
-  and J. S. Culpepper. [RMIT at the TREC CORE Track]. *Proceedings
-  of the 27th Text REtrieval Conference* (TREC 2018).
+* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social    Networks2”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019).
+
+* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “A linear-time algorithm for finding induced planar subgraphs”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018).
+
+* Sheng Wang, Zhifeng Bao, Shixun Huang, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018).
