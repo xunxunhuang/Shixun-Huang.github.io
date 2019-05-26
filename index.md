@@ -5,6 +5,10 @@
 layout: page
 ---
 
-Hello
+I'm a Computer Science PhD candidate at RMIT University working with [Zhifeng Bao][zhifeng] and
+[J. Shane Culpepper][pepper]. My research is
+centered within the intersection of Graph Data, Machine Learning and
+Efficient Algorithms.
 
-Good.
+[zhifeng]: https://sites.google.com/site/baozhifengcs
+[pepper]: https://culpepper.io
