@@ -20,3 +20,20 @@ Efficient Algorithms.
 * Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “A linear-time algorithm for finding induced planar subgraphs”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018)*.
 
 * Sheng Wang, Zhifeng Bao, Shixun Huang, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)*.
+
+### Professional Activities
+
+* Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
+
+### Teaching
+
+Teaching duties include tutor and lab assistant roles for the following
+courses.
+
+#### 2019
+
+* COSC2636 Big Data Management
+
+#### 2018
+
+* COSC2636 Big Data Management
