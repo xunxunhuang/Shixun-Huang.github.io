@@ -5,7 +5,7 @@
 layout: page
 ---
 <div class='pull-right intro-img' markdown="1">
-![]({{ "selfie.jpg" | absolute_url }})
+![]({{ "selfie.JPG" | absolute_url }})
 </div>
 
 
