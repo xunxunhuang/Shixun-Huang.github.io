@@ -4,7 +4,7 @@
 
 layout: page
 ---
-<div class='pull-right intro-img' markdown="1">
+<div style="float: right;" class='pull-right intro-img' markdown="1">
 ![]({{ "selfie.JPG" | absolute_url }})
 </div>
 
