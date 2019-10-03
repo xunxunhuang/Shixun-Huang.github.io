@@ -15,7 +15,7 @@ I received my bachelor's degree of Software Engineering in 2015 from Nanjing Uni
 centered within the intersection of Graph Data, Machine Learning and
 Efficient Algorithms.
 
-[zhifeng]: https://sites.google.com/site/baozhifengcs
+[zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
 
 
