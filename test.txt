@@ -1,2 +1,0 @@
-ssh -i shixun-ssh.pem ubuntu@18.236.233.48
-scp -i shixun-ssh.pem -r files ubuntu@18.236.233.48:/home/ubuntu/work
