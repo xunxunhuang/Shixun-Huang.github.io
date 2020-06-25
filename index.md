@@ -20,13 +20,13 @@ Efficient Algorithms.
 
 
 ### Publications
-* Shixun Huang, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. [PDF](./papers/icde20.pdf)
+* Shixun Huang, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. [PDF](./papers/icde2020.pdf)
 
-* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social    Networks2”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. [PDF](./papers/icde19.pdf)
+* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social    Networks2”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. [PDF](./papers/icde2019.pdf)
 
-* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “A linear-time algorithm for finding induced planar subgraphs”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018)*.
+* Sheng Wang, Zhifeng Bao, Shixun Huang, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)*. [PDF](./papers/wsdm2018.pdf)
 
-* Sheng Wang, Zhifeng Bao, Shixun Huang, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)*.
+* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “A linear-time algorithm for finding induced planar subgraphs”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018)*. [PDF](./papers/sea2018.pdf)
 
 ### Professional Activities
 
