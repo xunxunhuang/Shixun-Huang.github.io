@@ -30,6 +30,7 @@ Efficient Algorithms.
 
 ### Professional Activities
 
+* Reviewer: TOIS 2019
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
 ### Teaching
