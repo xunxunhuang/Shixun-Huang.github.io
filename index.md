@@ -21,7 +21,9 @@ Efficient Algorithms.
 
 ### Research Projects
 * **Seed Set Selection for Viral Marketing**.
+
     adgadh
+    
 * **Graph Representation Learning for Various Downstream Applications**.
 * **Mining High-Order Graph Information for Community Dectection and Graph Clustering**.
 
