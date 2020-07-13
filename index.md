@@ -25,6 +25,9 @@ Efficient Algorithms.
     This project focus on efficently and effectively finding the seed set users for spreading the advertising information in viral marketing. Due to various requirements, the seed set selection can be formulated as different problems such as Influence Maximization, Seed Set Minimization, Regret Minimization and Revenue Maximization. In this project, I aim to propose novel solutions and business models for different versions of this problem with better practicalty, efficiency and effectiveness.
     
 * **Graph Representation Learning for Various Downstream Applications**.
+
+    Graph representation learning has been a very promising and popular research topic and it can outperform traditional methods under various applications. Despite significant progress, this topic is still quite open and many directions are worth exploring. In this project, I mainly focus on temporal information capture and graph similarity computation with machine learning, and explainability and interpretability of graph representation learning. 
+
 * **Mining High-Order Graph Information for Community Dectection and Graph Clustering**.
 
 ### Publications
