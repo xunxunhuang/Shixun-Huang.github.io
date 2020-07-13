@@ -29,7 +29,10 @@ Efficient Algorithms.
     Graph representation learning has been a very promising and popular research topic and it can outperform traditional methods under various applications. Despite significant progress, this topic is still quite open and many directions are worth exploring. In this project, I mainly focus on temporal information capture and graph similarity computation with machine learning, and explainability and interpretability of graph representation learning. 
 
 * **Mining High-Order Graph Information for Community Dectection and Graph Clustering**.
-
+    High-order graph information has been shown to be very useful for important tasks such as community detection and graph clutering. In this project, I mainly focus on revolving two bottlenecks of this topic: how to efficiently extract the high-order information, and determine what kinds of high-order information we should extract based on the specific context.
+    
+    
+    
 ### Publications
 * Shixun Huang, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. [PDF](./papers/icde2020.pdf)
 
