@@ -22,7 +22,7 @@ Efficient Algorithms.
 ### Research Projects
 * **Seed Set Selection for Viral Marketing**.
 
-    adgadh
+    This project focus on efficently and effectively finding the seed set users for spreading the advertising information in viral marketing. Due to various requirements, the seed set selection can be formulated as different problems such as Influence Maximization, Seed Set Minimization, Regret Minimization and Revenue Maximization. In this project, I aim to propose novel solutions and business models for different versions of this problem with better practicalty, efficiency and effectiveness.  
     
 * **Graph Representation Learning for Various Downstream Applications**.
 * **Mining High-Order Graph Information for Community Dectection and Graph Clustering**.
