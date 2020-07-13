@@ -19,10 +19,15 @@ Efficient Algorithms.
 [pepper]: https://culpepper.io
 
 
+### Research Projects
+* **Seed Set Selection for Viral Marketing**.
+* **Graph Representation Learning for Various Downstream Applications**.
+* **Mining High-Order Graph Information for Community Dectection and Graph Clustering**.
+
 ### Publications
 * Shixun Huang, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. [PDF](./papers/icde2020.pdf)
 
-* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social    Networks2”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. [PDF](./papers/icde2019.pdf)
+* Shixun Huang, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social Networks”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. [PDF](./papers/icde2019.pdf)
 
 * Sheng Wang, Zhifeng Bao, Shixun Huang, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)*. [PDF](./papers/wsdm18.pdf)
 
