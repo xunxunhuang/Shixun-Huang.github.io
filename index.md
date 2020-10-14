@@ -4,11 +4,6 @@
 
 layout: page
 ---
-#<div style="float: right;" class='pull-right intro-img' markdown="1">
-#![]({{ "selfie.png" | absolute_url }})
-#</div>
-
-
 
 I received my bachelor's degree of Software Engineering in 2015 from Nanjing University and received my master's degree of Information Technology in 2017 from the University of Melbourne. Currently, I am a Computer Science PhD candidate at RMIT University working with [Zhifeng Bao][zhifeng] and
 [J. Shane Culpepper][pepper]. My research is
