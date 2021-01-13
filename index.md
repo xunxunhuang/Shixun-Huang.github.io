@@ -30,7 +30,7 @@ Efficient Algorithms.
     
     
 ### Publications
-* Shixun Huang, Yuchen Li, Zhifeng Bao, Zhao Li. “Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach”, *Proceedings of the 36th International Conference on Data Engineering (to appear in ICDE 2021)*.
+* Shixun Huang, Yuchen Li, Zhifeng Bao, Zhao Li. “Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach”, *Proceedings of the 36th International Conference on Data Engineering (to appear in ICDE 2021)*. [PDF](./papers/TR.pdf)
 
 * Shixun Huang, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. [PDF](./papers/icde2020.pdf)
 
