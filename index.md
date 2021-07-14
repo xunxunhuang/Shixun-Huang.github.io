@@ -54,7 +54,7 @@ courses.
 #### 2020
 
 * COSC2636 Big Data Management
-* 
+
 #### 2019
 
 * COSC2636 Big Data Management
