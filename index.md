@@ -5,8 +5,8 @@
 layout: page
 ---
 
-I received my bachelor's degree of Software Engineering in 2015 from Nanjing University and received my master's degree of Information Technology in 2017 from the University of Melbourne. Currently, I am a Computer Science PhD candidate at RMIT University working with [Zhifeng Bao][zhifeng] and
-[J. Shane Culpepper][pepper]. My research is
+I received my bachelor's degree of Software Engineering in 2015 from Nanjing University and received my master's degree of Information Technology in 2017 from the University of Melbourne. I have received my PhD degree proudly under the supervision of [Zhifeng Bao][zhifeng] and
+[J. Shane Culpepper][pepper] in 2021. My research is
 centered within the intersection of Graph Data, Machine Learning and
 Efficient Algorithms.
 
@@ -42,6 +42,7 @@ Efficient Algorithms.
 
 ### Professional Activities
 
+* program committee: CIKM 2021 (research track), CIKM 2021 (demo track)
 * Reviewer: TOIS 2019
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
@@ -50,6 +51,10 @@ Efficient Algorithms.
 Teaching duties include tutor and lab assistant roles for the following
 courses.
 
+#### 2020
+
+* COSC2636 Big Data Management
+* 
 #### 2019
 
 * COSC2636 Big Data Management
