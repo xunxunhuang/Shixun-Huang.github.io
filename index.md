@@ -53,12 +53,12 @@ courses.
 
 #### 2020
 
-* COSC2636 Big Data Management
+* COSC2636 Big Data Management at RMIT
 
 #### 2019
 
-* COSC2636 Big Data Management
+* COSC2636 Big Data Management at RMIT
 
 #### 2018
 
-* COSC2636 Big Data Management
+* COSC2636 Big Data Management at RMIT
