@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img style="float: right; height: 70%; width: auto;" src="selfie.jpeg">
+<img style="float: right; height: 90%; width: auto;" src="selfie.jpeg">
 Shixun is currently a reserach fellow at RMIT. He received my bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He has received my PhD degree in June, 2021, proudly under the supervision of [Zhifeng Bao][zhifeng] and
 [J. Shane Culpepper][pepper].
 
