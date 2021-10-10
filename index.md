@@ -5,10 +5,8 @@
 layout: page
 ---
 
-I received my bachelor's degree of Software Engineering in 2015 from Nanjing University and received my master's degree of Information Technology in 2017 from the University of Melbourne. I have received my PhD degree proudly under the supervision of [Zhifeng Bao][zhifeng] and
-[J. Shane Culpepper][pepper] in 2021. My research is
-centered within the intersection of Graph Data, Machine Learning and
-Efficient Algorithms.
+Shixun is currently a reserach fellow at RMIT. He received my bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He has received my PhD degree proudly under the supervision of [Zhifeng Bao][zhifeng] and
+[J. Shane Culpepper][pepper] in June, 2021.
 
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
@@ -45,23 +43,10 @@ Efficient Algorithms.
 
 ### Professional Activities
 
-* program committee: CIKM 2021 (research track), CIKM 2021 (demo track)
-* Reviewer: TOIS 2019
+* Program Committee Member:  ACM WSDM 2022 (Research track), ACM CIKM 2021 (Research & Demo tracks).
+* Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
 ### Teaching
 
-Teaching duties include tutor and lab assistant roles for the following
-courses.
-
-#### 2020
-
-* COSC2636 Big Data Management at RMIT
-
-#### 2019
-
-* COSC2636 Big Data Management at RMIT
-
-#### 2018
-
-* COSC2636 Big Data Management at RMIT
+Teaching assitant of COSC2636 Big Data Management at RMIT from 2018 to 2020.
