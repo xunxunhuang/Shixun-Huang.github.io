@@ -5,7 +5,7 @@
 layout: page
 ---
 <div class='pull-right intro-img' markdown="1">
-![lukeg]({{ "selfie.jpg" | absolute_url }})
+![shixun]({{ "selfie.jpg" | absolute_url }})
 </div>
 
 
