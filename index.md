@@ -36,7 +36,7 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 ### Professional Activities
 
-* Program Committee Member:  ACM WSDM 2022 (Research track), ACM CIKM 2021 (Research & Demo tracks).
+* Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2021 (Research & Demo tracks).
 * Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
