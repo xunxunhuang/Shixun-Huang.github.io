@@ -56,7 +56,7 @@ Teaching assitant of COSC2636 Big Data Management at RMIT from 2018 to 2020.
     
 * **Machine Learning in Graphs**.
 
- I am interested in adopting and extending the state-of-the-arts machine learning techniques (e.g., convolution neural networks, sequence to sequence models and reinforcement learning) from other fields (e.g., natural language processing and computer vision) into graphs, such that many notoriously hard problems (e.g., link prediction, node and label classification and finding the shortest path) in graphs can be effectively solved and human can get inspirations from learning models to design new algorithms.
+    I am interested in adopting and extending the state-of-the-arts machine learning techniques (e.g., convolution neural networks, sequence to sequence models and reinforcement learning) from other fields (e.g., natural language processing and computer vision) into graphs, such that many notoriously hard problems (e.g., link prediction, node and label classification and finding the shortest path) in graphs can be effectively solved and human can get inspirations from learning models to design new algorithms.
 
 * **Community Dectection in Graphs**.
 
