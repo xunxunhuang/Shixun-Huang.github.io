@@ -28,7 +28,7 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 * Tingting Wang<sup>\*</sup>, **Shixun Huang**<sup>\*</sup>, Zhifeng Bao, J. Shane Culpepper, Reza Arablouei (<sup>\*</sup>Equal contributions). “Representative Routes Discovery From Massive Trajectories”, *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2022)*. **(CCF A, CORE A<sup>*</sup>)**
 
-* Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. “Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters”, *Proceedings of the 19th Springer International Conference on Service Oriented Computing (ICSOC 2021)*. **(CCF B, CORE A)**. [PDF](./papers/ICSOC2021.pdf) 
+* Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. “[Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters](./papers/ICSOC2021.pdf)”, *Proceedings of the 19th Springer International Conference on Service Oriented Computing (ICSOC 2021)*. **(CCF B, CORE A)**. [PDF](./papers/ICSOC2021.pdf) 
 
 * **Shixun Huang**, Yuchen Li, Zhifeng Bao, Zhao Li. “Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2021)*. **(CCF A, CORE A<sup>*</sup>)**. [PDF](./papers/TR.pdf)
 
