@@ -26,19 +26,19 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 ### Publications
 
-* Tingting Wang<sup>\*</sup>, **Shixun Huang**<sup>\*</sup>, Zhifeng Bao, J. Shane Culpepper, Reza Arablouei (<sup>\*</sup>Equal contributions). “Representative Routes Discovery From Massive Trajectories”, *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2022)*.
+* Tingting Wang<sup>\*</sup>, **Shixun Huang**<sup>\*</sup>, Zhifeng Bao, J. Shane Culpepper, Reza Arablouei (<sup>\*</sup>Equal contributions). “Representative Routes Discovery From Massive Trajectories”, *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2022)*. (CCF A, CORE A<sup>*</sup>)
 
-* Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. “Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters”, *Proceedings of the 19th Springer International Conference on Service Oriented Computing (ICSOC 2021)*. [PDF](./papers/ICSOC2021.pdf)
+* Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. “Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters”, *Proceedings of the 19th Springer International Conference on Service Oriented Computing (ICSOC 2021)*. (CCF B, CORE A). [PDF](./papers/ICSOC2021.pdf) 
 
-* **Shixun Huang**, Yuchen Li, Zhifeng Bao, Zhao Li. “Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2021)*. [PDF](./papers/TR.pdf)
+* **Shixun Huang**, Yuchen Li, Zhifeng Bao, Zhao Li. “Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2021)*. (CCF A, CORE A<sup>*</sup>). [PDF](./papers/TR.pdf)
 
-* **Shixun Huang**, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. [PDF](./papers/icde2020.pdf)
+* **Shixun Huang**, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”, *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. (CCF A, CORE A<sup>*</sup>). [PDF](./papers/icde2020.pdf)
 
-* **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social Networks”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. [PDF](./papers/icde2019.pdf)
+* **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang.Zhang, “Finding Temporal Influential Users over Evolving Social Networks”, *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. (CCF A, CORE A<sup>*</sup>). [PDF](./papers/icde2019.pdf)
 
-* Sheng Wang, Zhifeng Bao, **Shixun Huang**, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)*. [PDF](./papers/wsdm18.pdf)
+* Sheng Wang, Zhifeng Bao, **Shixun Huang**, Rui Zhang, “A Unified Processing Paradigm for Interactive Location-based Web Search”, *Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)*. (CCF B, CORE A<sup>*</sup>). [PDF](./papers/wsdm18.pdf)
 
-* **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang, “A linear-time algorithm for finding induced planar subgraphs”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018)*. [PDF](./papers/SEA2018.pdf)
+* **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang, “A linear-time algorithm for finding induced planar subgraphs”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018)*. (CORE B). [PDF](./papers/SEA2018.pdf)
 
 ### Professional Activities
 
