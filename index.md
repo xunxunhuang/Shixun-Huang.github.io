@@ -40,11 +40,11 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 * **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang, “[A linear-time algorithm for finding induced planar subgraphs](./papers/SEA2018.pdf)”, *Proceedings of the 17th International Symposium on Experimental Algorithms (SEA 2018)*. **(CORE B)**.
 
 ### Honours and Awards
-* College Top Course Award x2, RMIT, 2018&2022 
+* College Top Course Award x2, RMIT, 2018 & 2022 
 * CORE Distinguished Dissertation Award Nomination, RMIT, 2021 
 * Best PhD Thesis Award, RMIT, 2021
 * HDR Outstanding Research Achievement Award, 2020
-* Google PhD Fellowship Nomination x2, RMIT, 2019&2020
+* Google PhD Fellowship Nomination x2, RMIT, 2019 & 2020
 ### Professional Activities
 
 * Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2022 (Research track), 2021 (Research & Demo tracks).
