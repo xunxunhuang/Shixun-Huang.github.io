@@ -46,8 +46,8 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
 ### Teaching
-Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
-Teaching assitant of COSC2636 Big Data Management at RMIT from 2018, 2019, 2020 and 2022.
+* Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
+* Teaching assitant of COSC2636 Big Data Management at RMIT from 2018, 2019, 2020 and 2022.
 
 <!---
 
