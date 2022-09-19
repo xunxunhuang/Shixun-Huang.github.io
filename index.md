@@ -7,8 +7,7 @@ layout: page
 
 
 <img style="float: right;" src="self.jpeg"  width="20%" height="auto">
-Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, proudly under the supervision of [Zhifeng Bao][zhifeng] and
-[J. Shane Culpepper][pepper].
+Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, proudly under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper]. His research focuses on data mining, knowledge discovery and combinatorial optimization problems with various techniques and algorithms such as approximation algorithms, randomized algorithms, sampling algorithms and machine learning methods adopted from different fields (e.g., CV and NLP). 
 
 
 [zhifeng]: https://baozhifeng.net/
@@ -47,8 +46,10 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
 ### Teaching
+Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
+Teaching assitant of COSC2636 Big Data Management at RMIT from 2018, 2019, 2020 and 2022.
 
-Teaching assitant of COSC2636 Big Data Management at RMIT from 2018 to 2020.
+<!---
 
 ### Research Projects
 * **Combinatorial Optimization in Graphs**.
@@ -62,7 +63,7 @@ Teaching assitant of COSC2636 Big Data Management at RMIT from 2018 to 2020.
 * **Community Dectection in Graphs**.
 
     Individual decisions are not made in isolation since people biasedly interact with and impose peer pressure on each other, which is largely caused by homophily and results in the formation of community. I am interested in mining insightful topological information (e.g., interaction patterns) and leveraging this information to detect community.
-    
+-->
     
     
 
