@@ -45,8 +45,9 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 * Best PhD Thesis Award, RMIT, 2021
 * HDR Outstanding Research Achievement Award, 2020
 * Google PhD Fellowship Nomination x2, RMIT, 2019 & 2020
-### Professional Activities
 
+
+### Professional Activities
 * Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2022 (Research track), 2021 (Research & Demo tracks).
 * Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
