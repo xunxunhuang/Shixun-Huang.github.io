@@ -32,7 +32,7 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 * **Shixun Huang**, Yuchen Li, Zhifeng Bao, Zhao Li. “[Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach](./papers/TR.pdf)”. *Proceedings of the 36th International Conference on Data Engineering (ICDE 2021)*. **(CCF A, CORE A<sup>*</sup>)**.
 
-* **Shixun Huang**, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “Temporal Network Representation Learning via Historical Neighborhoods Aggregation”. *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. **(CCF A, CORE A<sup>*</sup>)**. [PDF](./papers/icde2020.pdf)
+* **Shixun Huang**, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J.S.Culpepper. “[Temporal Network Representation Learning via Historical Neighborhoods Aggregation](./papers/icde2020.pdf)”. *Proceedings of the 36th International Conference on Data Engineering (ICDE 2020)*. **(CCF A, CORE A<sup>*</sup>)**.
 
 * **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang.Zhang. “[Finding Temporal Influential Users over Evolving Social Networks](./papers/icde2019.pdf)”. *Proceedings of the 35th International Conference on Data Engineering (ICDE 2019)*. **(CCF A, CORE A<sup>*</sup>)**.
 
