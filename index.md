@@ -24,10 +24,10 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 
 ### Publications 
-#### (Authors with equal contributions are marked with \*)
+#### (``#'' indicates co-first authors)
 * **Shixun Huang**, Wenqing Lin, Zhifeng Bao, Jiachen Sun. “Influence Maximization in Real-World Closed Social Networks”. To appear in the 49th ACM International Conference on Very Large Data Bases (VLDB), 2023. (CCF A, CORE A<sup>*</sup>)
 
-* Tingting Wang<sup>\*</sup>, **Shixun Huang**<sup>\*</sup>, Zhifeng Bao, J. Shane Culpepper, Reza Arablouei. “[Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079)”. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), pp. 4059-4069, 2022. (CCF A, CORE A<sup>*</sup>)
+* Tingting Wang<sup>#</sup>, **Shixun Huang**<sup>#</sup>, Zhifeng Bao, J. Shane Culpepper, Reza Arablouei. “[Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079)”. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), pp. 4059-4069, 2022. (CCF A, CORE A<sup>*</sup>)
 
 * Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. “[Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters](./papers/ICSOC2021.pdf)”. Proceedings of the 19th Springer International Conference on Service Oriented Computing (ICSOC), pp. 765-772, 2021. (CCF B, CORE A)
 
