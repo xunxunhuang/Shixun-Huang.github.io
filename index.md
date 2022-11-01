@@ -7,7 +7,7 @@ layout: page
 
 
 <img style="float: right;" src="self.jpeg"  width="20%" height="auto">
-Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper]. His research focuses on data mining, knowledge discovery and combinatorial optimization problems with various techniques and algorithms such as approximation algorithms, randomized algorithms, sampling algorithms and machine learning methods adopted from different fields (e.g., CV and NLP). 
+Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, proudly under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper]. His research focuses on data mining, knowledge discovery and combinatorial optimization problems with various techniques and algorithms such as approximation algorithms, randomized algorithms, sampling algorithms and machine learning methods adopted from different fields (e.g., CV and NLP). 
 
 
 [zhifeng]: https://baozhifeng.net/
