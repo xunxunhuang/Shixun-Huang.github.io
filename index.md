@@ -40,7 +40,7 @@ The ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD**), pp. 4059
 
 * <em>[Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters](./papers/ICSOC2021.pdf).</em> <br />
 Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. <br />
-The Springer International Conference on Service Oriented Computing (**ICSOC**), pp. 765-772, 2021. (CCF B, CORE A) <br />
+The Springer International Conference on Service Oriented Computing (**ICSOC**), pp. 765-772, 2021. (CORE A) <br />
 
 * <em>[Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach](./papers/TR.pdf).</em> <br />
 **Shixun Huang**, Yuchen Li, Zhifeng Bao, and Zhao Li. <br />
