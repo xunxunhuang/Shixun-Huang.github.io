@@ -26,17 +26,17 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 * <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
-To appear in the ACM International Conference on Management of Data (**SIGMOD**), 2023. (CCF A, CORE A<sup>*</sup>) <br />
+To appear in the ACM Conference on Management of Data (**SIGMOD**), 2023. (CCF A, CORE A<sup>*</sup>) <br />
 
 
 * <em>Influence Maximization in Real-World Closed Social Networks.</em> <br />
 **Shixun Huang**, Wenqing Lin, Zhifeng Bao, and Jiachen Sun. <br />
-To appear in the International Conference on Very Large Data Bases (**VLDB**), 2023. (CCF A, CORE A<sup>*</sup>) <br />
+To appear in the International Conference on Very Large Data Bases (**VLDB**), 2023. (CORE A<sup>*</sup>) <br />
 
 
 * <em>[Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079).</em> <br />
 Tingting Wang<sup>#</sup>, **Shixun Huang**<sup>#</sup>, Zhifeng Bao, J. Shane Culpepper, and Reza Arablouei. <br />
-The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), pp. 4059-4069, 2022. (CCF A, CORE A<sup>*</sup>) <br />
+The ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD**), pp. 4059-4069, 2022. (CORE A<sup>*</sup>) <br />
 
 * <em>[Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters](./papers/ICSOC2021.pdf).</em> <br />
 Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. <br />
@@ -44,19 +44,19 @@ The Springer International Conference on Service Oriented Computing (**ICSOC**),
 
 * <em>[Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach](./papers/TR.pdf).</em> <br />
 **Shixun Huang**, Yuchen Li, Zhifeng Bao, and Zhao Li. <br />
-The IEEE International Conference on Data Engineering (**ICDE**), pp. 528-539, 2021. (CCF A, CORE A<sup>*</sup>) <br />
+The IEEE International Conference on Data Engineering (**ICDE**), pp. 528-539, 2021. (CORE A<sup>*</sup>) <br />
 
 * <em>[Temporal Network Representation Learning via Historical Neighborhoods Aggregation](./papers/icde2020.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, Guoliang Li, Yanghao Zhou, and J.S.Culpepper. <br />
-The IEEE International Conference on Data Engineering (**ICDE**), pp. 1117-1128, 2020. (CCF A, CORE A<sup>*</sup>) <br />
+The IEEE International Conference on Data Engineering (**ICDE**), pp. 1117-1128, 2020. (CORE A<sup>*</sup>) <br />
 
 * <em>[Finding Temporal Influential Users over Evolving Social Networks](./papers/icde2019.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
-The IEEE International Conference on Data Engineering (**ICDE**), pp. 398-409, 2019. (CCF A, CORE A<sup>*</sup>) <br />
+The IEEE International Conference on Data Engineering (**ICDE**), pp. 398-409, 2019. (CORE A<sup>*</sup>) <br />
 
 * <em>[A Unified Processing Paradigm for Interactive Location-based Web Search](./papers/wsdm18.pdf).</em> <br />
 Sheng Wang, Zhifeng Bao, **Shixun Huang**, and Rui Zhang. <br />
-The ACM International Conference on Web Search and Data Mining (WSDM), pp. 23:1-23:15, 2018. (CCF B, CORE A<sup>*</sup>) <br />
+The ACM International Conference on Web Search and Data Mining (WSDM), pp. 23:1-23:15, 2018. (CORE A<sup>*</sup>) <br />
 
 * <em>[A linear-time algorithm for finding induced planar subgraphs](./papers/SEA2018.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
