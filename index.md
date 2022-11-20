@@ -24,8 +24,10 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 ### Publications ("#" indicates co-first authors)
 
-* **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. “Managing Conflicting Interests of Stakeholders in Influencer
-Marketing”. To appear in ACM International Conference on Management of Data (SIGMOD), 2023. (CCF A, CORE A<sup>*</sup>)
+* Managing Conflicting Interests of Stakeholders in Influencer Marketing.
+**Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin.
+To appear in ACM International Conference on Management of Data.
+**SIGMOD**, 2023. (CCF A, CORE A<sup>*</sup>)
 
 * **Shixun Huang**, Wenqing Lin, Zhifeng Bao, and Jiachen Sun. “Influence Maximization in Real-World Closed Social Networks”. To appear in the 49th ACM International Conference on Very Large Data Bases (VLDB), 2023. (CCF A, CORE A<sup>*</sup>)
 
