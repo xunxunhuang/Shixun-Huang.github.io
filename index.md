@@ -24,7 +24,7 @@ Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree
 
 ### Publications ("#" indicates co-first authors)
 
-* Managing Conflicting Interests of Stakeholders in Influencer Marketing. <br />
+* <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
 To appear in ACM International Conference on Management of Data. <br />
 **SIGMOD**, 2023. (CCF A, CORE A<sup>*</sup>) <br />
