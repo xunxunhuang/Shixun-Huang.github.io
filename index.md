@@ -7,7 +7,7 @@ layout: page
 
 
 <img style="float: left;" src="self.jpeg"  width="30%" height="auto">
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:royalblue;font-size:2em;">Shixun Huang</span> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue;font-size:2em;">Shixun Huang</span> <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;School of Computing Technologies, <br />
 <br />
@@ -19,13 +19,14 @@ layout: page
 
 <br />
 <br />
-## General
+
+## <span style="color:steelblue">General</span>
 Shixun is currently a reserach fellow at RMIT. He received his PhD degree at RMIT in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper], and obtained his bachelor degree at Nanjing University in 2015 and master degree at University of Melbourne in 2017. 
 
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
 
-## <span style="color:royalblue">Research Interests</span>
+## <span style="color:steelblue">Research Interests</span>
 Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
 <!---
 -->
@@ -37,7 +38,7 @@ Problems that arise at the cross-intersection of databases, machine learning, an
 * Intern at SAP (July 2014 – Feb.  2015)
 
 
-## Publications (co-first authors<sup>#</sup>)
+## <span style="color:steelblue">Publications (co-first authors<sup>#</sup>)</span>
 
 * <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
@@ -79,7 +80,7 @@ The International Symposium on Experimental Algorithms (SEA), pp. 601-609, 2018.
 
 
 
-## Honours and Awards
+## <span style="color:steelblue">Honours and Awards</span>
 * College Top Course Award x2, RMIT, 2018 & 2022 
 * CORE Distinguished Dissertation Award Nomination, RMIT, 2021 
 * Best PhD Thesis Award, RMIT, 2021
@@ -87,12 +88,12 @@ The International Symposium on Experimental Algorithms (SEA), pp. 601-609, 2018.
 * Google PhD Fellowship Nomination x2, RMIT, 2019 & 2020
 
 
-## Professional Activities
+## <span style="color:steelblue">Professional Activities</span>
 * Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2022 (Research track), 2021 (Research & Demo tracks).
 * Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
-## Teaching
+## <span style="color:steelblue">Teaching</span>
 * Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
 * Teaching assitant of COSC2636 Big Data Management at RMIT from 2018, 2019, 2020 and 2022.
 
