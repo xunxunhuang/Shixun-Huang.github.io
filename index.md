@@ -7,15 +7,15 @@ layout: page
 
 
 <img style="float: left;" src="self.jpeg"  width="30%" height="auto">
-&nbsp;&nbsp;<span style="color:dodgerblue;font-size:2em;">Shixun Huang</span> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:dodgerblue;font-size:2em;">Shixun Huang</span> <br />
 <br />
-&nbsp;&nbsp;School of Computing Technologies, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;School of Computing Technologies, <br />
 <br />
-&nbsp;&nbsp;RMIT University, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;RMIT University, <br />
 <br />
-&nbsp;&nbsp;Melbourne, Victoria 3000, Australia, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Melbourne, Victoria 3000, Australia, <br />
 <br />
-&nbsp;&nbsp;Email: firstname.lastname@rmit.edu.au
+&nbsp;&nbsp;&nbsp;&nbsp;Email: firstname.lastname@rmit.edu.au
 
 <br />
 <br />
