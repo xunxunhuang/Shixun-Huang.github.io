@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img style="float: left;" src="self.jpeg"  width="20%" height="auto">
+<img style="float: left;" src="self.jpeg"  width="30%" height="auto">
 &nbsp;&nbsp;<span style="font-size:1em;">Shixun Huang</span> <br />
 <br />
 &nbsp;&nbsp;School of Computing Technologies, <br />
