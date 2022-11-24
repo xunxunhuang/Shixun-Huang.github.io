@@ -7,7 +7,7 @@ layout: home
 
 
 <img style="float: left;" src="self.jpeg"  width="20%" height="auto">
-<font size="5">Shixun Huang</font> <br />
+## Shixun Huang <br />
 School of Computing Technologies, <br />
 RMIT University, <br />
 Melbourne, Victoria 3000, Australia, <br />
@@ -15,17 +15,17 @@ Email: firstname.lastname@rmit.edu.au
 
 
 
-### General
+## General
 Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper].
 
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
 
-### Research Interests
+## Research Interests
 Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
 <!---
 -->
-### Working Experience
+## Working Experience
 * Research Fellow at RMIT (Oct. 2021 - Now)
 * Research Intern at Tencent (May.  2021 – Aug.  2021)
 * Visiting Scholar at Tsinghua University (Oct.  2020 – Feb.  2021)
@@ -33,7 +33,7 @@ Problems that arise at the cross-intersection of databases, machine learning, an
 * Intern at SAP (July 2014 – Feb.  2015)
 
 
-### Publications (co-first authors<sup>#</sup>)
+## Publications (co-first authors<sup>#</sup>)
 
 * <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
@@ -83,12 +83,12 @@ The International Symposium on Experimental Algorithms (SEA), pp. 601-609, 2018.
 * Google PhD Fellowship Nomination x2, RMIT, 2019 & 2020
 
 
-### Professional Activities
+## Professional Activities
 * Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2022 (Research track), 2021 (Research & Demo tracks).
 * Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
 
-### Teaching
+## Teaching
 * Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
 * Teaching assitant of COSC2636 Big Data Management at RMIT from 2018, 2019, 2020 and 2022.
 
