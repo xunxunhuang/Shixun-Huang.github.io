@@ -14,7 +14,7 @@ layout: home
 &nbsp;&nbsp;Melbourne, Victoria 3000, Australia, <br />
 &nbsp;&nbsp;Email: firstname.lastname@rmit.edu.au
 
-<br />
+
 <br />
 ## General
 Shixun is currently a reserach fellow at RMIT. He received his PhD degree at RMIT in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper], and obtained his bachelor degree at Nanjing University in 2015 and master degree at University of Melbourne in 2017. 
@@ -76,7 +76,7 @@ The International Symposium on Experimental Algorithms (SEA), pp. 601-609, 2018.
 
 
 
-### Honours and Awards
+## Honours and Awards
 * College Top Course Award x2, RMIT, 2018 & 2022 
 * CORE Distinguished Dissertation Award Nomination, RMIT, 2021 
 * Best PhD Thesis Award, RMIT, 2021
