@@ -7,7 +7,7 @@ layout: page
 
 
 <img style="float: left;" src="self.jpeg"  width="30%" height="auto">
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:dodgerblue;font-size:2em;">Shixun Huang</span> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:royalblue;font-size:2em;">Shixun Huang</span> <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;School of Computing Technologies, <br />
 <br />
@@ -25,7 +25,7 @@ Shixun is currently a reserach fellow at RMIT. He received his PhD degree at RMI
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
 
-## Research Interests
+## <span style="color:royalblue">Research Interests</span>
 Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
 <!---
 -->
