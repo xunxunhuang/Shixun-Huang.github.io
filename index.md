@@ -7,7 +7,7 @@ layout: home
 
 
 <img style="float: left;" src="self.jpeg"  width="20%" height="auto">
-## Shixun Huang <br />
+## Shixun Huang
 School of Computing Technologies, <br />
 RMIT University, <br />
 Melbourne, Victoria 3000, Australia, <br />
