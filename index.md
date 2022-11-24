@@ -6,15 +6,16 @@ layout: home
 ---
 
 
-<img style="float: left;" src="self.jpeg"  width="20%" height="auto">
+<img style="float: left;" src="self.jpeg"  width="20%" height="auto">&nbsp;&nbsp;
 ## Shixun Huang
+
 School of Computing Technologies, <br />
 RMIT University, <br />
 Melbourne, Victoria 3000, Australia, <br />
 Email: firstname.lastname@rmit.edu.au
 
-
-
+<br />
+<br />
 ## General
 Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper].
 
