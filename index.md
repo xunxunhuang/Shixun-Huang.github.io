@@ -30,7 +30,7 @@ Shixun is currently a reserach fellow at RMIT. He received his PhD degree at RMI
 Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
 <!---
 -->
-## Working Experience
+##  <span style="color:steelblue">Working Experience</span>
 * Research Fellow at RMIT (Oct. 2021 - Now)
 * Research Intern at Tencent (May.  2021 – Aug.  2021)
 * Visiting Scholar at Tsinghua University (Oct.  2020 – Feb.  2021)
