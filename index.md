@@ -7,11 +7,22 @@ layout: home
 
 
 <img style="float: right;" src="self.jpeg"  width="20%" height="auto">
-Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper]. He is interested in problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
+Shixun Huang <br />
+School of Computing Technologies, <br />
+RMIT University, <br />
+Melbourne, Victoria 3000, Australia, <br />
+Email: firstname.lastname@rmit.edu.au
+
+
+
+### General
+Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper].
 
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
 
+### Research Interests
+Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
 <!---
 -->
 ### Working Experience
