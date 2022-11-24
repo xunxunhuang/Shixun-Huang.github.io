@@ -7,11 +7,14 @@ layout: home
 
 
 <img style="float: left;" src="self.jpeg"  width="20%" height="auto">
-&nbsp;&nbsp;## Shixun Huang
-
+<span style="font-size:4em;">Shixun Huang</span> <br />
+<br />
 &nbsp;&nbsp;School of Computing Technologies, <br />
+<br />
 &nbsp;&nbsp;RMIT University, <br />
+<br />
 &nbsp;&nbsp;Melbourne, Victoria 3000, Australia, <br />
+<br />
 &nbsp;&nbsp;Email: firstname.lastname@rmit.edu.au
 
 
