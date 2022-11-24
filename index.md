@@ -7,7 +7,7 @@ layout: home
 
 
 <img style="float: left;" src="self.jpeg"  width="20%" height="auto">
-<span style="font-size:4em;">Shixun Huang</span> <br />
+&nbsp;&nbsp;<span style="font-size:4em;">Shixun Huang</span> <br />
 <br />
 &nbsp;&nbsp;School of Computing Technologies, <br />
 <br />
