@@ -17,7 +17,7 @@ Email: firstname.lastname@rmit.edu.au
 <br />
 <br />
 ## General
-Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper].
+Shixun is currently a reserach fellow at RMIT. He received his bachelor's degree of Software Engineering in 2015 from Nanjing University and received his master's degree of Information Technology in 2017 from the University of Melbourne. He received his PhD degree at RMIT in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper].
 
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
