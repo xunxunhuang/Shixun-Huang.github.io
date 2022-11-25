@@ -31,7 +31,7 @@ Problems that arise at the cross-intersection of databases, machine learning, an
 <!---
 -->
 
-## <span style="color:steelblue">Publications (co-first authors<sup>+</sup>)</span>
+## <span style="color:steelblue">Publications (equal contribution<sup>+</sup>)</span>
 
 * <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
