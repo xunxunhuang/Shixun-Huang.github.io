@@ -27,7 +27,7 @@ Shixun is currently a reserach fellow at RMIT. He received his PhD degree at RMI
 [pepper]: https://culpepper.io
 
 ## <span style="color:steelblue">Research Interests</span>
-Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (AI for DB and DB for AI).
+Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (i.e., leverage AI techniques to benefit DB problems, and DB techniques to benefit AI problems).
 <!---
 -->
 ##  <span style="color:steelblue">Working Experience</span>
