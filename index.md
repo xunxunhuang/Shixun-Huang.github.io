@@ -30,15 +30,8 @@ Shixun is currently a reserach fellow at RMIT. He received his PhD degree at RMI
 Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to data mining, combinatorial optimization problems and AI+DB (i.e., leverage AI techniques to benefit DB problems, and DB techniques to benefit AI problems).
 <!---
 -->
-##  <span style="color:steelblue">Working Experience</span>
-* Research Fellow at RMIT (Oct. 2021 - Now)
-* Research Intern at Tencent (May.  2021 – Aug.  2021)
-* Visiting Scholar at Tsinghua University (Oct.  2020 – Feb.  2021)
-* Visiting Scholar at Singapore Management University (Aug.  2019 – Feb.  2020)
-* Intern at SAP (July 2014 – Feb.  2015)
 
-
-## <span style="color:steelblue">Publications (co-first authors<sup>#</sup>)</span>
+## <span style="color:steelblue">Publications (co-first authors<sup>+</sup>)</span>
 
 * <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
@@ -51,7 +44,7 @@ To appear in the International Conference on Very Large Data Bases (**VLDB**), 2
 
 
 * <em>[Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079).</em> <br />
-Tingting Wang<sup>#</sup>, **Shixun Huang**<sup>#</sup>, Zhifeng Bao, J. Shane Culpepper, and Reza Arablouei. <br />
+Tingting Wang<sup>+</sup>, **Shixun Huang**<sup>+</sup>, Zhifeng Bao, J. Shane Culpepper, and Reza Arablouei. <br />
 The ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD**), pp. 4059-4069, 2022. (CORE A<sup>*</sup>) <br />
 
 * <em>[Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters](./papers/ICSOC2021.pdf).</em> <br />
@@ -78,6 +71,13 @@ The ACM International Conference on Web Search and Data Mining (WSDM), pp. 23:1-
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
 The International Symposium on Experimental Algorithms (SEA), pp. 601-609, 2018. (CORE B)  <br />
 
+
+##  <span style="color:steelblue">Working Experience</span>
+* Research Fellow at RMIT (Oct. 2021 - Now)
+* Research Intern at Tencent (May.  2021 – Aug.  2021)
+* Visiting Scholar at Tsinghua University (Oct.  2020 – Feb.  2021)
+* Visiting Scholar at Singapore Management University (Aug.  2019 – Feb.  2020)
+* Intern at SAP (July 2014 – Feb.  2015)
 
 
 ## <span style="color:steelblue">Honours and Awards</span>
