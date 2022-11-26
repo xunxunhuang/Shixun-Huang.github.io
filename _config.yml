@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #title: Shixun Huang
-title: testing
+title: Shixun Huang''s Homepage
 #email: shixun.huang@rmit.edu.au
 email: firstname.lastname@rmit.edu.au
 #baseurl: "" # the subpath of your site, e.g. /blog
