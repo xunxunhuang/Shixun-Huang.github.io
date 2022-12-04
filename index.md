@@ -7,8 +7,6 @@ layout: post
 
 
 <img style="float: left;" src="WechatIMG160.jpeg"  width="25%" height="auto">
-<br />
-<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue;font-size:2em;">Shixun Huang</span> <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;School of Computing Technologies, <br />
@@ -19,8 +17,6 @@ layout: post
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Email: firstname.lastname@rmit.edu.au
 
-<br />
-<br />
 <br />
 <br />
 ## <span style="color:steelblue">General</span>
