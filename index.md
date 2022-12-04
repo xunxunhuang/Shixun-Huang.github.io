@@ -6,7 +6,9 @@ layout: post
 ---
 
 
-<img style="float: left;" src="WechatIMG160.jpeg"  width="20%" height="auto">
+<img style="float: left;" src="WechatIMG160.jpeg"  width="30%" height="auto">
+<br />
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue;font-size:2em;">Shixun Huang</span> <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;School of Computing Technologies, <br />
@@ -19,7 +21,8 @@ layout: post
 
 <br />
 <br />
-
+<br />
+<br />
 ## <span style="color:steelblue">General</span>
 Shixun is currently a research fellow at RMIT. He received his PhD degree at RMIT in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper], and obtained his bachelor degree at Nanjing University in 2015 and master degree at University of Melbourne in 2017. 
 
