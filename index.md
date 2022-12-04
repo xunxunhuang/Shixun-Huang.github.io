@@ -6,7 +6,7 @@ layout: post
 ---
 
 
-<img style="float: left;" src="WechatIMG160.jpeg"  width="30%" height="auto">
+<img style="float: left;" src="WechatIMG160.jpeg"  width="25%" height="auto">
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue;font-size:2em;">Shixun Huang</span> <br />
