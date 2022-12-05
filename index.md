@@ -37,7 +37,7 @@ Equal contribution<sup>+</sup><br />
 To appear in the ACM Conference on Management of Data (**SIGMOD**), 2023. (CORE A<sup>*</sup>) <br />
 
 
-* <em>Influence Maximization in Real-World Closed Social Networks.</em> <br />
+* <em>[Influence Maximization in Real-World Closed Social Networks](https://www.vldb.org/pvldb/vol16/p180-bao.pdf).</em> <br />
 **Shixun Huang**, Wenqing Lin, Zhifeng Bao, and Jiachen Sun. <br />
 The International Conference on Very Large Data Bases (**VLDB**), pp. 180-192, 2023. (CORE A<sup>*</sup>) <br />
 
