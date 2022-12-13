@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+main.page-content {
+    padding-top: 0;
+    content-width: 1500px;
+}
+article.post {
+    div.post-content {
+        h2 {
+            clear: both;
+        }
+        ul {
+            li { margin-bottom: .5em; }
+        }
+
+        .intro-img {
+            margin-left: 4em;
+        }
+        .pull-right {
+            display: block;
+            float: right;
+        }
+    }
+}
