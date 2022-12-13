@@ -2,12 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-content-width: 1500px;
+
 main.page-content {
     padding-top: 0;
     content-width: 1500px;
 }
 article.post {
+    content-width: 1500px;
     div.post-content {
         h2 {
             clear: both;
