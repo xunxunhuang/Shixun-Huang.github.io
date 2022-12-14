@@ -26,7 +26,12 @@ Shixun is currently a research fellow at RMIT. He received his PhD degree at RMI
 [pepper]: https://culpepper.io
 
 ## <span style="color:steelblue">Research Interests</span>
-Problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science. These problems include but are not limited to combinatorial optimization, data mining, machine learning and AI+DB (i.e., leverage AI techniques to benefit DB problems, and DB techniques to benefit AI problems).
+Problems that arise at the cross-intersection of graph databases, machine learning, and theoretical computer science. These problems include but are not limited to combinatorial optimization, data mining, and machine learning.
+
+**Combinatorial Optimization in Graphs**. Many real-world problems (e.g., influencers selection for advertising, friend recommendation and edge server placement) in graphs (e.g., social networks, knowledge graphs and mobile computing networks) can be formulated as combinatorial problems. I am interested in proving the problem hardness and solving them by proposing scalable and effective approximation algorithms with theoretical guarantees.
+
+**Machine Learning and Data Mining in Graphs**. I am interested in proposing novel machine learning algorithms by combining SOTA techniques from other fields (e.g., NLP and CV) to solve important and practical problems (e.g., link prediction, drug discovery, user classification and product recommendation), and mining data and discovering knowledge (e.g., motif enumeration, induced planar graph and clustering) in graphs (e.g., social networks, sensor networks, protein-interaction and etc.).
+
 <!---
 -->
 
