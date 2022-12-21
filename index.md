@@ -109,11 +109,11 @@ The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2
 * Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
 * Teaching assitant of COSC2636 Big Data Management at RMIT from 2018, 2019, 2020 and 2022.
 
-<!---
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z00anpUiOEQnioyPzKBc2tZKX6F9R5aehC1q7W_rZhw&cl=ffffff&w=a"></script>
 
 
-
+<!---
 ### Research Projects
 * **Combinatorial Optimization in Graphs**.
 
