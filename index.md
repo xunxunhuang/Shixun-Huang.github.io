@@ -40,11 +40,11 @@ Problems that arise at the cross-intersection of graph databases, machine learni
 ## <span style="color:steelblue">Publications</span>
 Equal contribution<sup>+</sup><br />
 
-<!---
+
 * <em>Shortest Paths Discovery in Uncertain Networks via Transfer Learning.</em> <br />
 **Shixun Huang** and Zhifeng Bao. <br />
 To appear in the ACM Conference on Management of Data (**SIGMOD**), 2023. (CORE A<sup>*</sup>) <br />
--->
+
 
 * <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
