@@ -102,6 +102,7 @@ The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2
 
 
 ## <span style="color:steelblue">Professional Activities</span>
+* Chairmanship Services: PC co-chair of Encore Track of Australasian Database Conference (ADC) 2023
 * Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2022 (Research track), 2021 (Research & Demo tracks).
 * Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
 * Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
