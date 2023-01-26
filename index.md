@@ -26,13 +26,13 @@ Shixun is currently a research fellow at RMIT. He received his PhD degree at RMI
 [pepper]: https://culpepper.io
 
 ## <span style="color:steelblue">Research Interests</span>
-Problems that arise at the cross-intersection of graph databases, machine learning, and theoretical computer science. These problems include but are not limited to combinatorial optimization, data mining, and machine learning.
+I am interested in problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science, with the research mission of creating deployable solutions with theoretical guarantees, improving people's daily life and increasing economic growth. These problems include but are not limited to:
 
-**Combinatorial Optimization in Graphs**. Many real-world problems (e.g., influencers selection for advertising, friend recommendation and edge server placement) in graphs (e.g., social networks, knowledge graphs and mobile computing networks) can be formulated as combinatorial problems. I am interested in proving the problem hardness and solving them by proposing scalable and effective approximation algorithms with theoretical guarantees.
+**Graph Data Analytics**. Problems that discover complex relationships between linked entities (e.g., graph representation learning, link prediction and clustering) or interesting structures/patterns in networks (e.g., motif counting and graph planarization).
 
-**Machine Learning (ML) and Data Mining (DM) in Graphs**. I am interested in proposing novel machine learning algorithms by combining SOTA techniques from other fields (e.g., NLP and CV) to solve important and practical problems (e.g., link prediction, drug discovery, user classification and product recommendation), and mining data and discovering knowledge (e.g., motif enumeration, induced planar graph and clustering) in graphs (e.g., social networks, sensor networks, protein-interaction and etc.).
+**Viral Marketing**. Problems that drive better decision making in viral marketing campaigns (e.g., influencer selection, influencer pricing and friend recommendation for information diffusion).
 
-**ML+DM**. I am excited about leveraging ML techniques to benefit DM problems (ML for DM), and DM techniques to benefit ML problems (DM for ML) with the goal of improving efficiency and effectiveness. Ongoing ML-for-DM research includes shortest path discovery, utility/cardinality estimation, influence maximization, graph similarity computation, and DM-for-ML research includes data preparation (e.g., data annotation and embedding initialization).
+**Urban Computing**. Problems that pertain to important applications for smart cities (e.g., route planning, server deployment in mobile edge computing, and traffic monitoring). 
 
 <!---
 -->
