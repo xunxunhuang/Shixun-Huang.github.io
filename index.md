@@ -26,7 +26,7 @@ Shixun is currently a research fellow at RMIT. He received his PhD degree at RMI
 [pepper]: https://culpepper.io
 
 ## <span style="color:steelblue">Research Interests</span>
-I am interested in problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science, with the research mission of creating deployable solutions with theoretical guarantees, improving people's daily life and increasing economic growth. These problems include but are not limited to:
+Shixun is interested in problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science, with the research mission of creating deployable solutions with theoretical guarantees, improving people's daily life and increasing economic growth. These problems include but are not limited to:
 
 **Graph Data Analytics**. Problems that discover complex relationships between linked entities (e.g., graph representation learning, link prediction and clustering) or interesting structures/patterns in networks (e.g., motif counting and graph planarization).
 
