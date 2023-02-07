@@ -102,10 +102,18 @@ The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2
 
 
 ## <span style="color:steelblue">Professional Activities</span>
-* Chairmanship Services: PC co-chair of Encore Track of Australasian Database Conference (ADC) 2023
-* Program Committee Member:  ACM SIGKDD 2022 (Applied Data Science Track), ACM WSDM 2022 (Research track), ACM CIKM 2022 (Research track), 2021 (Research & Demo tracks).
-* Reviewer: The ACM Transactions on Information Systems (TOIS), 2019.
-* Subreviewer: SIGIR 2018, 2019, VLDB 2018, SIGKDD 2019, TKDE
+### <span style="color:steelblue">- Chairmanship Services -</span>
+* PC co-chair of Encore Track of Australasian Database Conference (ADC) 2023
+
+### <span style="color:steelblue">- PC Membership Services -</span>
+* PC member of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022
+* PC member of ACM International Conference on Web Search and Data Mining (WSDM) 2022
+* PC member of ACM International Conference on Information and Knowledge Management (CIKM) 2021, 2022
+
+### <span style="color:steelblue">- Invited Reviewer Services -</span>
+* Invited reviewer of International Conference on Very Large Data Bases (VLDB) 2023
+* Invited reviewer of The ACM Transactions on Information Systems (TOIS), 2019.
+
 
 ## <span style="color:steelblue">Teaching</span>
 * Guest Lecturer of COSC2636 Big Data Management at RMIT at 2022.
