@@ -20,7 +20,7 @@ layout: page
 <br />
 <br />
 ## <span style="color:steelblue">General</span>
-Shixun is currently a research fellow at RMIT. He received his PhD degree at RMIT in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper], and obtained his bachelor degree at Nanjing University in 2015 and master degree at University of Melbourne in 2017. 
+Shixun is currently a research fellow at RMIT and will join University of Wollongong as a Lecturer (permanent) in July. He received his PhD degree at RMIT in June, 2021, under the supervision of [Prof. Zhifeng Bao][zhifeng] and [Prof. J. Shane Culpepper][pepper], and obtained his bachelor degree at Nanjing University in 2015 and master degree at University of Melbourne in 2017. 
 
 [zhifeng]: https://baozhifeng.net/
 [pepper]: https://culpepper.io
