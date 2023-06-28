@@ -41,11 +41,11 @@ Shixun is interested in problems that arise at the cross-intersection of databas
 Equal contribution<sup>+</sup><br />
 
 
-* <em>Shortest Paths Discovery in Uncertain Networks via Transfer Learning.</em> <br />
+* <em>[Shortest Paths Discovery in Uncertain Networks via Transfer Learning](https://dl.acm.org/doi/10.1145/3589286).</em> <br />
 **Shixun Huang** and Zhifeng Bao. <br />
 Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (2), 1-25. (CORE A<sup>*</sup>) <br />
 
-* <em>Managing Conflicting Interests of Stakeholders in Influencer Marketing.</em> <br />
+* <em>[Managing Conflicting Interests of Stakeholders in Influencer Marketing](https://dl.acm.org/doi/10.1145/3588934).</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
 Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (1), 1-27. (CORE A<sup>*</sup>) <br />
 
