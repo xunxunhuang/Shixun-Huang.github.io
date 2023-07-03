@@ -85,7 +85,8 @@ The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2
 
 
 ##  <span style="color:steelblue">Working Experience</span>
-* Research Fellow at RMIT (Oct. 2021 - Now)
+* Lecturer at UOW (July 2023 - Now)
+* Research Fellow at RMIT (Oct. 2021 - July 2023)
 * Research Intern at Tencent (May.  2021 – Aug.  2021)
 * Visiting Scholar at Tsinghua University (Oct.  2020 – Feb.  2021)
 * Visiting Scholar at Singapore Management University (Aug.  2019 – Feb.  2020)
