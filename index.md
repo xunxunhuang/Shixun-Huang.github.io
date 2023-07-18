@@ -81,7 +81,7 @@ The ACM International Conference on Web Search and Data Mining (**WSDM**), pp. 2
 
 * <em>[A linear-time algorithm for finding induced planar subgraphs](./papers/SEA2018.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
-The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2018. (CORE B)  <br />
+The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2018. (**CORE Rank B**)  <br />
 
 
 ##  <span style="color:steelblue">Working Experience</span>
