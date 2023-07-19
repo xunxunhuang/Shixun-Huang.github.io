@@ -43,45 +43,45 @@ Equal contribution<sup>+</sup><br />
 
 * <em>[Shortest Paths Discovery in Uncertain Networks via Transfer Learning](https://dl.acm.org/doi/10.1145/3589286).</em> <br />
 **Shixun Huang** and Zhifeng Bao. <br />
-Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (2), 1-25, 2023 (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (2), 1-25, 2023 (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 * <em>[Managing Conflicting Interests of Stakeholders in Influencer Marketing](https://dl.acm.org/doi/10.1145/3588934).</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
-Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (1), 1-27, 2023 (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (1), 1-27, 2023 (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 
 * <em>[Influence Maximization in Real-World Closed Social Networks](https://www.vldb.org/pvldb/vol16/p180-bao.pdf).</em> <br />
 **Shixun Huang**, Wenqing Lin, Zhifeng Bao, and Jiachen Sun. <br />
-The International Conference on Very Large Data Bases (**VLDB**), pp. 180-192, 2023. (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+The International Conference on Very Large Data Bases (**VLDB**), pp. 180-192, 2023. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 
 * <em>[Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079).</em> <br />
 Tingting Wang<sup>+</sup>, **Shixun Huang**<sup>+</sup>, Zhifeng Bao, J. Shane Culpepper, and Reza Arablouei. <br />
-The ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD**), pp. 4059-4069, 2022. (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+The ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD**), pp. 4059-4069, 2022. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 * <em>[Edge Node Placement with Minimum Costs: When User Tolerance on Service Delay Matters](./papers/ICSOC2021.pdf).</em> <br />
 Xiaoyu Zhang, **Shixun Huang**, Zhifeng Bao and Hai Dong. <br />
-The Springer International Conference on Service Oriented Computing (**ICSOC**), pp. 765-772, 2021. (**CORE Rank A, CCF Rank B**) <br />
+The Springer International Conference on Service Oriented Computing (ICSOC), pp. 765-772, 2021. (CORE Rank A, CCF Rank B) <br />
 
 * <em>[Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach](./papers/TR.pdf).</em> <br />
 **Shixun Huang**, Yuchen Li, Zhifeng Bao, and Zhao Li. <br />
-The IEEE International Conference on Data Engineering (**ICDE**), pp. 528-539, 2021. (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+The IEEE International Conference on Data Engineering (**ICDE**), pp. 528-539, 2021. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 * <em>[Temporal Network Representation Learning via Historical Neighborhoods Aggregation](./papers/icde2020.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, Guoliang Li, Yanghao Zhou, and J.S.Culpepper. <br />
-The IEEE International Conference on Data Engineering (**ICDE**), pp. 1117-1128, 2020. (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+The IEEE International Conference on Data Engineering (**ICDE**), pp. 1117-1128, 2020. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 * <em>[Finding Temporal Influential Users over Evolving Social Networks](./papers/icde2019.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
-The IEEE International Conference on Data Engineering (**ICDE**), pp. 398-409, 2019. (**CORE Rank A<sup>*</sup>, CCF Rank A**) <br />
+The IEEE International Conference on Data Engineering (**ICDE**), pp. 398-409, 2019. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 * <em>[A Unified Processing Paradigm for Interactive Location-based Web Search](./papers/wsdm18.pdf).</em> <br />
 Sheng Wang, Zhifeng Bao, **Shixun Huang**, and Rui Zhang. <br />
-The ACM International Conference on Web Search and Data Mining (**WSDM**), pp. 23:1-23:15, 2018. (**CORE Rank A<sup>*</sup>, CCF Rank B**) <br />
+The ACM International Conference on Web Search and Data Mining (**WSDM**), pp. 23:1-23:15, 2018. (CORE Rank A<sup>*</sup>, CCF Rank B) <br />
 
 * <em>[A linear-time algorithm for finding induced planar subgraphs](./papers/SEA2018.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
-The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2018. (**CORE Rank B**)  <br />
+The International Symposium on Experimental Algorithms (**SEA**), pp. 601-609, 2018. (CORE Rank B)  <br />
 
 
 ##  <span style="color:steelblue">Working Experience</span>
