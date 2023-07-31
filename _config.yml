@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 #title: Shixun Huang
 title: Shixun Huang's Homepage
-#email: shixun.huang@rmit.edu.au
-email: firstname.lastname@rmit.edu.au
+#email: shixun_huang@uow.edu.au
+email: firstname_lastname@uow.edu.au
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  Shixun-Huang
