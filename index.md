@@ -43,11 +43,11 @@ Equal contribution<sup>+</sup><br />
 
 * <em>[Shortest Paths Discovery in Uncertain Networks via Transfer Learning](https://dl.acm.org/doi/10.1145/3589286).</em> <br />
 **Shixun Huang** and Zhifeng Bao. <br />
-Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (2), 1-25, 2023 (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
+Proceedings of the ACM on Management of Data (**SIGMOD**), 1 (2), 1-25, 2023 (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 * <em>[Managing Conflicting Interests of Stakeholders in Influencer Marketing](https://dl.acm.org/doi/10.1145/3588934).</em> <br />
 **Shixun Huang**, Junhao Gan, Zhifeng Bao, and Wenqing Lin. <br />
-Proceedings of the ACM on Management of Data (**SIGMOD**) 1 (1), 1-27, 2023 (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
+Proceedings of the ACM on Management of Data (**SIGMOD**), 1 (1), 1-27, 2023 (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 
 * <em>[Influence Maximization in Real-World Closed Social Networks](https://www.vldb.org/pvldb/vol16/p180-bao.pdf).</em> <br />
