@@ -77,7 +77,7 @@ The IEEE International Conference on Data Engineering (**ICDE**), pp. 398-409, 2
 
 * <em>[A Unified Processing Paradigm for Interactive Location-based Web Search](./papers/wsdm18.pdf).</em> <br />
 Sheng Wang, Zhifeng Bao, **Shixun Huang**, and Rui Zhang. <br />
-The ACM International Conference on Web Search and Data Mining (**WSDM**), pp. 23:1-23:15, 2018. (CORE Rank A<sup>*</sup>, CCF Rank B) <br />
+The ACM International Conference on Web Search and Data Mining (**WSDM**), pp. 23:1-23:15, 2018. (CORE Rank A, CCF Rank B) <br />
 
 * <em>[A linear-time algorithm for finding induced planar subgraphs](./papers/SEA2018.pdf).</em> <br />
 **Shixun Huang**, Zhifeng Bao, J.S.Culpepper and Bang Zhang. <br />
