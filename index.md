@@ -52,7 +52,7 @@ Proceedings of the ACM on Management of Data (**SIGMOD**), 1 (1), pp. 1-27, 2023
 
 * <em>[Influence Maximization in Real-World Closed Social Networks](https://www.vldb.org/pvldb/vol16/p180-bao.pdf).</em> <br />
 **Shixun Huang**, Wenqing Lin, Zhifeng Bao, and Jiachen Sun. <br />
-The International Conference on Very Large Data Bases (**PVLDB**), 16(2), pp. 180-192, 2022. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
+The International Conference on Very Large Data Bases (**VLDB**), 16(2), pp. 180-192, 2023. (CORE Rank A<sup>*</sup>, CCF Rank A) <br />
 
 
 * <em>[Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079).</em> <br />
