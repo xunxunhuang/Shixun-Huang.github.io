@@ -28,11 +28,13 @@ Shixun is a lecturer at The University of Wollongong. He received his PhD degree
 ## <span style="color:steelblue">Research Interests</span>
 Shixun is interested in problems that arise at the cross-intersection of databases, machine learning, and theoretical computer science, with the research mission of creating deployable solutions with theoretical guarantees, improving people's daily life and increasing economic growth. These problems include but are not limited to:
 
+**Urban Computing**. Problems that pertain to important applications for smart cities (e.g., route planning, server deployment in mobile edge computing, and traffic monitoring). 
+
 **Graph Data Analytics**. Problems that discover complex relationships between linked entities (e.g., graph representation learning, link prediction and clustering) or interesting structures/patterns in networks (e.g., motif counting and graph planarization).
 
 **Viral Marketing**. Problems that drive better decision making in viral marketing campaigns (e.g., influencer selection, influencer pricing and friend recommendation for information diffusion).
 
-**Urban Computing**. Problems that pertain to important applications for smart cities (e.g., route planning, server deployment in mobile edge computing, and traffic monitoring). 
+
 
 <!---
 -->
