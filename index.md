@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-<img style="float: left;" src="WechatIMG160.jpeg"  width="25%" height="auto">
+<img style="float: left;" src="selfie.jpg"  width="25%" height="auto">
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue;font-size:2em;">Shixun Huang (黄仕勋)</span> <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;School of Computing and Information Technology, <br />
