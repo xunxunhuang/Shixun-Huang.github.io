@@ -15,7 +15,7 @@ layout: page
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Northfields Ave, Wollongong NSW 2522, Australia, <br />
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Email: shixun_huang@uow.edu.au
+&nbsp;&nbsp;&nbsp;&nbsp;Email: firstname_lastname@uow.edu.au
 
 <br />
 <br />
